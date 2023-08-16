@@ -2,7 +2,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    background-color: #dffffa;
+    background-color: #cedffa;
 }
 
 h1 {
@@ -24,22 +24,26 @@ hr {
 }
 
 .top-container {
-    background-color: #c2fdf3;
+    background-color: #a3ddfe;
     position: relative;
     padding-top: 100px;
 }
 
 .middle-container {
-    background-image: linear-gradient(#c2fdf3, #dffffa);
+    background-image: linear-gradient(#a3ddfe, #cedffa);
 }
 
 .bottom-container {
-    background-color: #dffffa;
+    background-color: #cedffa;
+}
+
+.skill-title {
+    padding-top: 60px;
 }
 
 .skill-row {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
     text-align: left;   
     line-height: 2; 
 }
